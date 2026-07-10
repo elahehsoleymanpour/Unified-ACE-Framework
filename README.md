@@ -1,3 +1,4 @@
+‍‍‍‍
 # Unified ACE Framework: Multi-Modal Semantic-Topological Parameter Estimation
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c)
@@ -21,7 +22,7 @@ The synthesis is dynamically gated using **Predictive Fidelity Scores** and **So
 - **Asymmetric Volatility-Targeting:** A rigorous trading strategy module optimized for both Equities (S&P 500) and Jump-Diffusion assets (Bitcoin).
 - **FinBERT Integration:** Extracts dense semantic embeddings from financial news headlines.
 
-## 📂 Repository Structure
+```text
 Unified-ACE-Framework/
 │
 ├── core/
@@ -38,7 +39,6 @@ Unified-ACE-Framework/
 │   └── metrics.py        # QLIKE, RMSE, and Drawdown calculations
 │
 └── Main_Experiments.ipynb # Master notebook for Tables & Figures reproduction
-
 
 ## 💻 Usage
 To run the experiments in Google Colab or your local machine:
